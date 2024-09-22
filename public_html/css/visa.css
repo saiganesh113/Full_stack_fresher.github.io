@@ -1,0 +1,15 @@
+.list {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.list22 {
+    width: 28%;
+    height: 300px;
+    margin: 25px 25px;
+    float: left;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    box-shadow: 3px 6px gray;
+}
+
